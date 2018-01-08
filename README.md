@@ -22,4 +22,4 @@ bootstrapped from create-react-app
     * charts are components that are returned in the render function of the Chart component. e.g. `<Doughnut />`
     * each chart has a `data` property. Data lives in state.
 
-![screenshot]('./screenshot.png')
+![screenshot]('/screenshot.png')
